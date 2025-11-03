@@ -1,0 +1,31 @@
+# Конфиги с секретами
+telegram_config.py
+*.session
+*.session-journal
+
+# Папка с моделями (создаётся автоматически)
+models/
+
+# Питон
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Логи
+*.log
+logs/
+
+# Временные файлы
+.DS_Store
+Thumbs.db
