@@ -14,8 +14,8 @@
 
 ### 1. Клонирование
 ```bash
-git clone https://github.com/ваш-username/tg-markov-bot.git
-cd tg-markov-bot
+git clone https://github.com/Parser404/TG_parser.git
+cd TG_parser
 ```
 ⚙️ Настройка
 Получение API ключей
